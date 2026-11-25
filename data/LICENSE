@@ -1,0 +1,6 @@
+The measured data in this folder (all subfolders except mnist/) are licensed under the
+Creative Commons Attribution 4.0 International licence (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+
+mnist/MNIST.mat contains the MNIST database (Y. LeCun, C. Cortes, C. J. C. Burges),
+redistributed under CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/

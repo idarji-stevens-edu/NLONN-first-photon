@@ -1,0 +1,12 @@
+work,series,photons,accuracy,classes,kind,pixels,settings,readouts,source
+Li et al.,Li2024,1,31.00,10,measured,1,10,10,"arXiv:2410.17471, Sec. 4: 31.00 +- 0.77 % from the first detected photon; one detector (SPCM), ten SLM phase masks in turn"
+Fan et al.,Fan2026,1,69.0,8,measured,8,1,8,"arXiv:2604.25480: single-photon criterion, eight classes (digits 0-7), 504 test images; one phase layer, 8 pixels of a 32x32 SPAD array"
+Fischbacher et al.,Fischbacher2021,1,41.27,10,theory,790,1,790,"ICLR 2021, Table 1: quantum (with interference) MNIST; one unitary, a bank of 790 detectors"
+Ma et al. 2026,Ma2026,2.2,58.3,10,measured,1,4,4,"arXiv:2603.23974, Fig. A28a and Table A7 (MNIST, K = 1, df = 4): 2.2 photons, 58.3 %; a single qCMOS pixel"
+Ma et al. 2026,Ma2026,5.0,76.5,10,measured,1,9,9,"arXiv:2603.23974, Fig. A28b and Table A7 (df = 9): 5.0 photons, 76.5 %"
+Ma et al. 2026,Ma2026,8.6,85.7,10,measured,1,16,16,"arXiv:2603.23974, Fig. 3C and Table A7 (MNIST, K = 1, df = 16)"
+Ma et al. 2026,Ma2026,13,91.9,10,measured,1,25,25,"arXiv:2603.23974, Fig. 3C and Table A7 (df = 25)"
+Ma et al. 2026,Ma2026,18,95.1,10,measured,1,36,36,"arXiv:2603.23974, Fig. 3C and Table A7 (df = 36)"
+Ma et al. 2026,Ma2026,29,97.2,10,measured,1,64,64,"arXiv:2603.23974, Fig. 3C and Table A7 (df = 64)"
+Wang et al.,Wang2022,57216,90.0,10,measured,1,210,210,"Nat. Commun. 13, 123: 0.64 photons per multiplication x 89,400 multiplications (>90 %); one MPPC, 784-100-100-10 network = 210 dot products"
+Wang et al.,Wang2022,286080,99.0,10,measured,1,210,210,"Nat. Commun. 13, 123: 3.2 photons per multiplication x 89,400 multiplications"
