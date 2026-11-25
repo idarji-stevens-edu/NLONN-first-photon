@@ -9,10 +9,9 @@ Measured data and analysis code behind the numbers and figures of the paper I. D
 | | |
 |---|---|
 | `data/` | measured data of the five experiments, and MNIST; the variables are described in [data/README.md](data/README.md) |
-| `code/` | MATLAB analysis scripts and `functions/` |
+| `code/` | MATLAB analysis scripts and `functions/`; [code/README.md](code/README.md) lists the script behind each number and figure of the paper |
 | `results/` | CSV files written by the scripts |
 | `figures/` | Python scripts that draw the figures from `results/`, and the figures |
-| [PAPER_NUMBERS.md](PAPER_NUMBERS.md) | which script produces each number and figure of the paper |
 
 ## Requirements
 

@@ -1,8 +1,8 @@
-# Paper numbers and figures, and the scripts that produce them
+# Scripts behind the numbers and figures of the paper
 
 ## Numbers
 
-Run each script from `code/` in MATLAB. Each prints the numbers below and writes its CSV files to `results/`. The slow scripts are `object_plane_phase_layer.m` (~25 min), `fourier_plane_phase_layer.m` (~45 min) and `masked_cameras.m` (~1 h).
+Run each script from this folder in MATLAB. Each prints the numbers below and writes its CSV files to `../results/`. The slow scripts are `object_plane_phase_layer.m` (~25 min), `fourier_plane_phase_layer.m` (~45 min) and `masked_cameras.m` (~1 h).
 
 | Paper | Number | Script |
 |---|---|---|
